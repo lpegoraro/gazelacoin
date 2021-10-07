@@ -2,9 +2,11 @@
 Testing the new XRP and Ripple Protocol
 
 
-## Create protocol for IOU
+## Protocol IOU
 1. Define trustline
 2. Define model
+
+# Protocol XRPNet
 
 
 
@@ -12,4 +14,3 @@ Testing the new XRP and Ripple Protocol
 Gas Price
 (How much volume and liquidity of the coin)
 
-- Create protocol for XRP
