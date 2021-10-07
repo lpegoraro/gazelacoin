@@ -6,7 +6,7 @@ Testing the new XRP and Ripple Protocol
 1. Define trustline
 2. Define model
 
-# Protocol XRPNet
+## Protocol XRPNet
 
 
 
